@@ -1,0 +1,31 @@
+WRISTVERSE PHP PAGE CONVERSION
+================================
+
+All frontend HTML pages were converted to PHP.
+Internal links and JavaScript redirects were updated to .php.
+
+Frontend PHP pages:
+- 404.php
+- index.php
+- watches/404.php
+- watches/about.php
+- watches/account/index.php
+- watches/account/login.php
+- watches/account/register.php
+- watches/admin/customers.php
+- watches/admin/index.php
+- watches/admin/inventory.php
+- watches/admin/login.php
+- watches/admin/orders.php
+- watches/admin/products.php
+- watches/admin/profit-loss.php
+- watches/admin/settings.php
+- watches/cart.php
+- watches/checkout.php
+- watches/contact.php
+- watches/index.php
+- watches/order-success.php
+- watches/policy.php
+- watches/product.php
+- watches/shop.php
+- watches/track-order.php
